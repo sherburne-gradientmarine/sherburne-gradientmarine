@@ -1,1 +1,10 @@
-Hi, my name is Lauren! I am a Colorado School of Mines alumni with a degree in Computer Science and am interested in all things related to software development :)
+⚓ Maritime Systems & Enterprise Web Application
+
+• Virtual maritime vehicle tracking and simulation platforms
+• Interactive mapping interfaces built with Electron
+• Scalable FastDDS messaging architecture with publisher/subscriber threading
+• Flask-based travel management platform with custom database architecture
+
+Backend: Python • Flask • FastDDS • C++
+Frontend: JavaScript • Electron • HTML • Interactive Mapping
+Design: UI/UX • Maritime Systems
