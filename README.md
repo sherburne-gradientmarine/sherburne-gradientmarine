@@ -6,5 +6,5 @@
 • Flask-based travel management platform with custom database architecture
 
 Backend: Python • Flask • FastDDS • C++
-Frontend: JavaScript • Electron • HTML • Interactive Mapping
-Design: UI/UX • Maritime Systems
+Frontend: JavaScript • Electron • HTML • Bootstrap • Tailwind
+Design: UI/UX • Maritime Systems • Interactive Mapping
